@@ -52,7 +52,7 @@ const Navbar = () => {
               <img
                 className="self-start w-40 "
                 src={logo}
-                alt="Rentalog-logo"
+                alt="RentPro-logo"
               />
             </div>
 
@@ -146,7 +146,7 @@ const Navbar = () => {
 
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <div className="flex flex-row justify-center items-center">
-            <img className="self-start w-40 " src={logo} alt="Rentalog-logo" />
+            <img className="self-start w-40 " src={logo} alt="RentPro-logo" />
           </div>
           <div className="flex md:order-2">
             <Link to="/login">

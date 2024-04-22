@@ -161,7 +161,7 @@ const Navbar = () => {
   return (
     <div className="absolute top-4 left-4">
       <Link to="/">
-        <img src={logo} alt="Rentalog-logo" className="h-12 w-auto" />
+        <img src={logo} alt="RentPro-logo" className="h-12 w-auto" />
       </Link>
     </div>
   );
