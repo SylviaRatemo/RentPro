@@ -38,14 +38,13 @@ export default function Login() {
 
   return (
     <article className="flex flex-col justify-center h-[100vh]  bg-primaryGreen/10 overflow-hidden">
-      <Navbar />
+      <Navbar />S
       <br className=" hidden xl:block"></br>
       <section className="flex flex-row justify-baseline items-center ">
         <div className="hidden w-full lg:flex lg:mt-12 flex-col lg:justify-start xl:justify-center  xl:h-full  ">
           <div className="mb-10 mx-10 mr-auto">
             <h2 className=" text-3xl font-bold text-gray-dark/90 ">
-              <span className="text-customRed italic"> Best way</span> to manage
-              you rent
+              <span className="text-customRed italic"> Simplifying </span> Rent Management
             </h2>
 
             <p className="mt-2 text-gray-dark/70 ">

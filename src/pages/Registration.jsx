@@ -61,8 +61,7 @@ export default function Registration() {
         <div className="hidden w-full lg:flex lg:mt-12 flex-col justify-center xl:justify-center  xl:h-full ">
           <div className="mb-10 mx-10 mr-auto">
             <h2 className=" text-3xl font-bold text-gray-dark/90 ">
-              <span className="text-customRed italic"> Best way</span> to manage
-              you rent
+              <span className="text-customRed italic"> Simplifying Rent Management. </span>
             </h2>
 
             <p className="mt-2  text-gray-dark/70 ">
@@ -200,7 +199,7 @@ const Navbar = () => {
   return (
     <div className="absolute  top-4 left-4">
       <Link to="/">
-        <img src={logo} alt="Rentalog-logo" className="h-12 w-auto" />
+        <img src={logo} alt="RentaPro-logo" className="h-12 w-auto" />
       </Link>
     </div>
   );

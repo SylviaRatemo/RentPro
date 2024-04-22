@@ -26,23 +26,7 @@ Rentalog is built using the following technologies:
 - Mongoose 📦
 - Passport.js 🔐
 
-## 🔗 Inspiration Links
-
-- **Figma Design**: Explore the Figma design for the new version of Rentalog [here](https://www.figma.com/file/9WhtUQT7s5ogTiDTp90PxI/RENTALOG-WEB-DESIGN?type=design&node-id=0-1&mode=design&t=ZNeyPXk16TlWB6I6-0).
-- **Current Tech Stack**: To explore the current tech stack used in the older version of Rentalog, visit [Rentalog.in](https://rentalog-web-app.azurewebsites.net/). Use its functionality as a reference while migrating to React.js and Next.js.
-  
-- **Rentalog Demo Account Credentials**:
+ 
+- **RentPro Demo Account Credentials**:
 - Username: <demo@rentalog.in>
 - Password: @1a2b3c4d5E
-
-## 📄 License
-
-Rentalog is released under the **MIT License**. By contributing to this project, you agree to provide your contributions under the same license.
-
-## ✨ Contributors
-
-All Thanks to our contributors 💙
-
-[![GitHub Contributors](https://contrib.rocks/image?repo=gauravsingh1281/Rentalog-Rent-Management-Web-App-For-Landlords)](https://github.com/gauravsingh1281/Rentalog-Rent-Management-Web-App-For-Landlords/graphs/contributors)
-
-Feel free to join our team and contribute to making Rentalog even better! 🚀
